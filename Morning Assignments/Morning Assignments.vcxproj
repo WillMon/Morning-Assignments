@@ -115,6 +115,7 @@
   <ItemGroup>
     <ClCompile Include="FunApp.cpp" />
     <ClCompile Include="PrimeAnswer.cpp" />
+    <ClCompile Include="SeetThoseFun.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
