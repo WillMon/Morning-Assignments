@@ -113,9 +113,12 @@
     <ClInclude Include="Header.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DisFrom.cpp" />
     <ClCompile Include="FunApp.cpp" />
+    <ClCompile Include="MultiButNot.cpp" />
     <ClCompile Include="PrimeAnswer.cpp" />
     <ClCompile Include="SeetThoseFun.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
